@@ -1,0 +1,34 @@
+/* Basic styling for navigation */
+.navbar {
+  background-color: #2b839e; /* Dark blue */
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: black;
+}
+
+.dropdown-menu {
+  background-color: #73a5bc; /* Dropdown background */
+}
+
+/* Styling the header section */
+.header {
+  background-color: #2b839e; /* Light blue */
+  color: #333;
+}
+
+.text-section p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+.txtTwo {
+  background-color: #f4b8a3;
+  color: #333;
+  padding: 2rem;
+  text-align: center;
+}
