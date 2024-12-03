@@ -1,10 +1,23 @@
 /* Basic styling for navigation */
-.navbar {
-  background-color: #2b839e; /* Dark blue */
+#header-logo {
+  background-color: #c87878e9;
 }
 
-.navbar-nav .nav-link {
-  color: white;
+#nav-logo {
+  background-color: #c87878e9;
+}
+
+#img1 {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+#cont-img {
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+.navbar {
+  background-color: #00000024; /* Dark blue */
 }
 
 .navbar-nav .nav-link:hover,
@@ -13,18 +26,16 @@
 }
 
 .dropdown-menu {
-  background-color: #73a5bc; /* Dropdown background */
-}
-
-/* Styling the header section */
-.header {
-  background-color: #2b839e; /* Light blue */
-  color: #333;
+  background-color: #863e37; /* Dropdown background */
 }
 
 .text-section p {
   font-size: 1.1rem;
   line-height: 1.8;
+}
+
+#footer {
+  background-color: #f4b8a3;
 }
 .txtTwo {
   background-color: #f4b8a3;
